@@ -1,1 +1,2 @@
-# hcdev.space
+# hcdev
+Hardcore Development Team
